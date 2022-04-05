@@ -38,7 +38,6 @@ post '/signup' do
    else
     erb(:signup)
    end
-
 end
 
 
